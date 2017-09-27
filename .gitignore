@@ -1,0 +1,6 @@
+target/vertx-start-project-0.0.1-SNAPSHOT-fat.jar
+target/vertx-start-project-0.0.1-SNAPSHOT.jar
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.project
+*.class

@@ -1,0 +1,12 @@
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\application\service\port\ListActivitiesInputBoundary.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\application\service\port\ListActivitiesOutputBoundary.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\domain\entities\Entity.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\example\ActivityModule.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\domain\repositories\port\ActivityRepository.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\example\MainVerticle.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\infraestructure\callback\Callback.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\domain\entities\Activity.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\domain\model\ActivityDetails.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\application\services\adapter\ListActivitiesUseCase.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\infraestructure\persistence\adapter\ActivityRepositoryImpl.java
+C:\Users\jorge.garrido\Documents\workspace-sts-3.9.0.RELEASE\vertx-start-project\src\main\java\com\jgarrido\infraestructure\ui\port\ListActivitiesView.java

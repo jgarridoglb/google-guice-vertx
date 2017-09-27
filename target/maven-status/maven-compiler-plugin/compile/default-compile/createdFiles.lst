@@ -1,0 +1,14 @@
+com\jgarrido\application\service\port\ListActivitiesOutputBoundary.class
+com\jgarrido\infraestructure\callback\Callback.class
+com\jgarrido\domain\entities\Activity.class
+com\jgarrido\infraestructure\persistence\adapter\ActivityRepositoryImpl.class
+com\jgarrido\example\ActivityModule.class
+com\jgarrido\infraestructure\callback\Callback$1.class
+com\jgarrido\application\services\adapter\ListActivitiesUseCase.class
+com\jgarrido\example\MainVerticle.class
+com\jgarrido\domain\repositories\port\ActivityRepository.class
+com\jgarrido\infraestructure\callback\Callback$DelegatingCallback.class
+com\jgarrido\domain\entities\Entity.class
+com\jgarrido\application\service\port\ListActivitiesInputBoundary.class
+com\jgarrido\domain\model\ActivityDetails.class
+com\jgarrido\infraestructure\ui\port\ListActivitiesView.class
